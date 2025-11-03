@@ -18,7 +18,7 @@ export default function Hero() {
             Empowering Youth for Social Impact
           </h1>
           <p className="text-xl sm:text-2xl text-primary-foreground/80 mb-8 max-w-2xl mx-auto text-balance">
-            Youth for Change at Karachi University is a student-led organization dedicated to creating meaningful social
+            Youth for Change at Kathmandu University is a student-led organization dedicated to creating meaningful social
             impact through innovation, collaboration, and community engagement.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
